@@ -1,0 +1,8 @@
+.div-direita {
+  transform: rotate(90deg);
+  font-size: 24px;
+}
+.div-esquerda {
+  transform: rotate(-90deg);
+  font-size: 24px;
+}
